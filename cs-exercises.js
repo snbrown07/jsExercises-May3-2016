@@ -1,6 +1,6 @@
-/***********************/
+/************************************/
 /*  Conditional Statement Exercises */
-/***********************/
+/************************************/
 
 /*
   Create a function named 'example' with one parameter.
