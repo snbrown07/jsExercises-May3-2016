@@ -23,9 +23,15 @@ The last question in `cs-exercises.js` is intentionally difficult, remember **if
 You are expected to complete and submit these exercises by the end of this week. Don't waste time!
 
 ## Submission
+
+1. Do this in the Cloud9 terminal
 ```bash
 git add .
 git commit -m "jsExercises May-3-2016"
 git push origin master
 git push origin master:gh-pages
 ```
+2. Open the Project Submission Form
+3. Fill in your first and last name
+4. Submit this project as: 'jsExercises May 3rd, 2016'
+5. Copy the github project link and paste it into the form and submit!
