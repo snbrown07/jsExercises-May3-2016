@@ -33,5 +33,5 @@ git push origin master:gh-pages
 ```
 2. Open the Project Submission Form
 3. Fill in your first and last name
-4. Submit this project as: 'jsExercises May 3rd, 2016'
+4. Submit this project as: `jsExercises May 3rd, 2016`
 5. Copy the github project link and paste it into the form and submit!
