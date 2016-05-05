@@ -15,21 +15,27 @@ function example() {
   Create a function named 'ready' with no parameters.
   Leave the body empty
 */
-
+function ready(){
+  
+}
 
 /*
   Create a function named 'set' with one parameter.
   Name the parameter anything you want
   Leave the body empty
 */
-
+function set (fire){
+  
+}
 
 /*
   Create a function named 'go' with two parameters.
   Name the parameters anything you want
   Leave the body empty
 */
-
+function go (x, y){
+  
+}
 
 /*
   Create a function named 'ditto' with one parameter.
@@ -40,6 +46,9 @@ function example() {
     ditto(-2) -> -2
     ditto(3) -> 3
 */
+function ditto (z){
+return z;
+  }
 
 
 /*
@@ -51,7 +60,9 @@ function example() {
     negative(20) -> -20
     negative(30) -> -30
 */
-
+function negative (n){
+  return (-n);
+}
 
 /*
   Create a function named 'reverse' with two parameters.
@@ -62,3 +73,6 @@ function example() {
     reverse("bomb", "the") -> "thebomb"
     reverse("der" "red") -> "redder"
 */
+function reverse (last, first){
+  return first + last;
+}
